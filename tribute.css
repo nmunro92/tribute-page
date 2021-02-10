@@ -1,0 +1,56 @@
+body {
+    font-family: "courier new";
+    background-color: lightgray;
+  }
+  h1 {
+    text-align: center;
+  }
+  #byline {
+    text-align: center;
+  }
+  main {
+    background: white;
+    margin: 20px;
+    padding: 20px;
+    background:url("https://www.flagdetective.com/images/download/uk-scotland-hi.jpg") no-repeat center center fixed;
+  }
+  img {
+    max-width: 100%;
+    display: block;
+    height: auto;
+    margin: auto;
+    padding: 10px;
+    text-align: center;
+  }
+  #img-div{
+    margin: 20px;
+    text-align: center;
+  }
+  #tribute-div {
+    background: white;
+    padding: 10px;
+    display: block;
+    height: auto;
+    margin: auto;
+  }
+  footer {
+    text-align: center;
+  }
+
+  a {
+    color: blue;
+    text-decoration: underline;
+  }
+  a:visited {
+      text-decoration: none;
+  }
+  a:link {
+      text-decoration: underline;
+      color: blue;
+  }
+  a:active {
+      text-decoration: none;
+  }
+  a:hover {
+    text-decoration: none;
+  }
